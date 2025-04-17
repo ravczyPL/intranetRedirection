@@ -1,0 +1,10 @@
+{
+    "routes": [
+      {
+        "route": "/*",
+        "redirect": "https://kaemgroup.sharepoint.com/sites/INFORMATYKA/",
+        "statusCode": 301
+      }
+    ]
+  }
+  
