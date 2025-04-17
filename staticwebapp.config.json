@@ -2,7 +2,7 @@
     "routes": [
       {
         "route": "/*",
-        "redirect": "https://kaemgroup.sharepoint.com/sites/INFORMATYKA/",
+        "redirect": "https://kaemgroup.sharepoint.com/sites/intranet/",
         "statusCode": 301
       }
     ]
